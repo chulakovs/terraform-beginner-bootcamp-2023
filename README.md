@@ -44,3 +44,7 @@ This will run a plan and pass the changeset to be executed by terraform. Apply s
 
 If we want to automatically approve an apply we can provide the 'terraform apply --auto-approve' flag.
 
+#### Terraform Desttoy
+
+'terraform destroy'
+This will destroy resources. 
